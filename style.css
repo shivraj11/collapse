@@ -1,0 +1,65 @@
+:root { 
+  font-size: 16px; }
+
+ body {
+  margin-bottom: 10px;
+  padding: 0; 
+ }
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
+
+    }
+    div{
+    	display: none;
+    }
+
+ button {
+
+    background: #800080;
+    cursor:pointer;
+    border: 2px solid;
+    border-color: #7fff00;
+    color:#000000 ;
+    font-family: "Istok Web", sans-serif;
+    font-size: .8rem;
+    text-decoration: underline;
+    letter-spacing: .5px;
+    height: 30px;
+    width: 50%;
+    text-transform: uppercase;
+}
+
+  .colorr {
+     background: #7fff00;
+  }
+
+  #sone{
+  border: 2px solid;
+   border-color: #7fff00;
+  width: 49.7%;
+   text-transform: uppercase;
+   border-top: none;
+   text-align: center;
+  }
+
+  #stwo{
+  border: 2px solid;
+   border-color: #7fff00;
+  width: 49.7%;
+   text-transform: uppercase;
+   border-top: none;
+   text-align: center;
+  }
+
+  #sthree{
+  border: 2px solid;
+   border-color: #7fff00;
+  width: 49.7%;
+   text-transform: uppercase;
+   border-top: none;
+   text-align: center;
+  }
